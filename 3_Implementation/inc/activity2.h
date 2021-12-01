@@ -1,6 +1,6 @@
 /**
  * @file activity2.h
- * @author Pranav Pramod Jain
+ * @author Prassanna
  * @brief Reading values of temperature sensor using ADC
  * @version 0.1
  * @date 2021-12-01

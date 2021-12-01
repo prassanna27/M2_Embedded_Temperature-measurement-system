@@ -22,13 +22,16 @@ In our daily life temperature plays a vital role. The Room temperature is import
 
 # SWOT ANALYSIS:
 ## Strength:
-* Its strength is compact in size and accuracy in displaying the correct temperature.
+- Its strength is compact in size
+- accuracy in displaying the correct temperature.
+- cost efficient
 ## Weakness:
-* Due to the usage of tiny electronic components need to be very care in handling.
+- Due to the usage of tiny electronic components need to be very care in handling.
 ## Opportunity:
-* We should create an opportunity to make our product used by everyone by providing an awareness over the adverse effects of over temperatures and importance of surveiling the temperature.
+- We should create an opportunity to make our product used by everyone by providing an awareness over the adverse effects of over temperatures and importance of surveiling the temperature.
+- Due to covid now it is needed everywhere in the world.
 ## Threat:
-* Most of the mobiles has already these features but we need to prove the importance of this device in each and every embedded projects to get aware.
+- Now there are many new developing companies to competition.
 
 
 # REQUIREMENTS:

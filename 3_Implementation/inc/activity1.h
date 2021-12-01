@@ -1,7 +1,7 @@
 /**
  * @file  activity1.h
- * @author Pranav Pramod Jain
- * @brief Toggling LED based on inputs from button and heater
+ * @author Prassanna
+ * @brief Toggling LED based on inputs from button 
  * @version 0.1
  * @date 2021-12-01
  * 
@@ -26,11 +26,11 @@
 #define LED_DDR (&DDRB)    /**< LED Data Direction Register */
 #define LED_PIN  (PB0)  /**< LED Pin Number  */
 
-#define BUTTON_PORT (&PORTD) /**< BUTTON and HEATER Port */
+#define BUTTON_PORT (&PORTD) /**< BUTTON and thermo Port */
 #define BUTTON_DDR (&DDRD)  /**< BUTTON Data Direction Register */
 #define BUTTON_STATUS (&PIND) /**< BUTTON Status Register */
 #define BUTTON_PIN (PD2)  /**< BUTTON Pin number */
-#define HEATER_PIN (PD3)  /**< HEATER Pin number */
+#define HEATER_PIN (PD3)  /**< thermo Pin number */
 
 #define LED_ON 	(0x01)			/**< LED state HIGH */
 #define LED_OFF	(0x00)			/**< LED state LOW */
@@ -43,11 +43,11 @@
  */
 
 /**
- * @brief Function checks if button and heater is on
+ * @brief Function checks if button and thermo is on
  * 
- * @return returns true if both button and heater is on 
+ * @return returns true if both button and thermo is on 
  */
-uint8_t button_heater_check();
+uint8_t button_thermo_check();
 
 
 /**
@@ -57,7 +57,7 @@ uint8_t button_heater_check();
 void activity1_init();
 
 /**
- * @brief Changes led state based on button and heater input
+ * @brief Changes led state based on button and thermo input
  * 
  */
 void change_led_state();

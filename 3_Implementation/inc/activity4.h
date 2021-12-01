@@ -1,6 +1,6 @@
 /**
  * @file activity4.h
- * @author  Pranav Pramod Jain
+ * @author  Prassanna
  * @brief USART Protocol to transmit Temperature values
  * @version 0.1
  * @date 2021-12-01

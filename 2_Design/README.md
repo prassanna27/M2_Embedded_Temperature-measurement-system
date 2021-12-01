@@ -1,1 +1,6 @@
+# Flow chart
 
+![flowchart drawio](https://user-images.githubusercontent.com/94218817/144244559-ce7f7526-b14c-44a4-b331-eddf416c31d2.png)
+
+# Block diagram
+![blockdia drawio](https://user-images.githubusercontent.com/94218817/144244299-4c619082-fbc0-45d0-87a9-319ce27bf621.png)

@@ -1,6 +1,6 @@
 /**
  * @file project_config.h
- * @author Pranav Pramod Jain
+ * @author Prassanna
  * @brief Configuration file to define pins and ports for the interfaced peripherals
  * @version 0.1
  * @date 2021-12-01
